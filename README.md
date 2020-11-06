@@ -1,2 +1,2 @@
 # HackerRank
-Coding challenges.
+Coding challenges written in Python.
